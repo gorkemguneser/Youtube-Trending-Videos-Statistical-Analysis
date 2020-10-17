@@ -14,6 +14,6 @@ This project includes following;
 <b>Dataset can be found on the following [address](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)</b>
 
 
-  Nina Hewings
-  Francesca Kim Nahyun
-  Gorkem Guneser
+<b>Nina Hewings</b>
+<b>Francesca Kim Nahyun</b>
+<b>Gorkem Guneser</b>

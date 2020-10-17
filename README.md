@@ -19,6 +19,11 @@ This project includes following;
 <b>Dataset can be found on the following [address](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)</b>
 
 
+### Links
+<b> Presentation </b>: [Here](https://docs.google.com/presentation/d/1rH1ASCiqTCpCj3rxgGSW_6Ct19q1lZfs/edit#slide=id.p3)
+
+
+### Authors
 <br><b>[Nina Hewings](https://www.linkedin.com/in/nina-hewings-1405a57b/?originalSubdomain=nl)</b></br>
 <br><b>[Francesca Nahyun Kim](https://www.linkedin.com/in/francescakim)</b></br>
 <br><b>[Gorkem Guneser](https://www.linkedin.com/in/gorkemguneser/)</b></br>

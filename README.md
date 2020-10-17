@@ -26,9 +26,9 @@ This project includes following;
 
 
 ### Authors
-<br><b>[Nina Hewings](https://www.linkedin.com/in/nina-hewings-1405a57b/?originalSubdomain=nl)</b></br>
-<br><b>[Francesca Nahyun Kim](https://www.linkedin.com/in/francescakim)</b></br>
-<br><b>[Gorkem Guneser](https://www.linkedin.com/in/gorkemguneser/)</b></br>
+<br>[Nina Hewings](https://www.linkedin.com/in/nina-hewings-1405a57b/?originalSubdomain=nl)</br>
+<br>[Francesca Nahyun Kim](https://www.linkedin.com/in/francescakim)</br>
+<br>[Gorkem Guneser](https://www.linkedin.com/in/gorkemguneser/)</br>
 
 
 

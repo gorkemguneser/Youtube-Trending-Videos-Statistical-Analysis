@@ -16,7 +16,7 @@ This project includes following;
 
 <br><b>[Nina Hewings](https://www.linkedin.com/in/nina-hewings-1405a57b/?originalSubdomain=nl)</b></br>
 <br><b>[Francesca Nahyun Kim](https://www.linkedin.com/in/francescakim)</b></br>
-<br><b>[Gorkem Guneser]</b>(https://www.linkedin.com/in/gorkemguneser/)</br>
+<br><b>[Gorkem Guneser](https://www.linkedin.com/in/gorkemguneser/)</b></br>
 
 
 

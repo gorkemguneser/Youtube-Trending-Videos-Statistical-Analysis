@@ -21,6 +21,8 @@ This project includes following;
 
 ### Links
 <b> Presentation </b>: [Here](https://docs.google.com/presentation/d/1rH1ASCiqTCpCj3rxgGSW_6Ct19q1lZfs/edit#slide=id.p3)
+<b> GitHub </b>: [Link](https://github.com/gorkemguneser/Youtube-Trending-Videos-Statistical-Analysis)
+<b> Trello </b>: [Link](https://trello.com/b/PZ0vHoHg/game-project-gorkem)
 
 
 ### Authors

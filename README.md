@@ -4,7 +4,7 @@
 
 <br>According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (<b>number of views, shares, comments and likes</b>). Note that they’re not the most-viewed videos overall for the calendar year”.</br>
 
-<b>Content</b>
+#<b>Content</b>
 <br>This dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the IN, US, GB, DE, CA, FR, RU, BR, MX, KR, and JP regions (India, USA, Great Britain, Germany, Canada, France, Russia, Brazil, Mexico, South Korea, and, Japan respectively), with up to 200 listed trending videos per day.</.br>
 
 <br>Each region’s data is in a separate file. Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.</.br>

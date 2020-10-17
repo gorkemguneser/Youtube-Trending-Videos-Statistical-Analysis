@@ -11,4 +11,9 @@ This project includes following;
 <li>Statistical analysis on content engagement</li>
 
 
-Dataset can be found on the following [address](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)
+<b>Dataset can be found on the following [address](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)</b>
+
+
+  Nina Hewings
+  Francesca Kim Nahyun
+  Gorkem Guneser
